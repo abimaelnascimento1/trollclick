@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+}
+
+img{
+    height: 90px;
+    width: 90px;
+    border-radius: 45px;
+}
+
